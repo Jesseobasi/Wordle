@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://drive.google.com/file/d/1o4VWs_gN1s1b5EBU0AmU0mpgW0ttj84Z/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://ezgif.com/ 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
