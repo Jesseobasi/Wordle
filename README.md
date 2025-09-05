@@ -45,6 +45,9 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+- Had problems connecting the buttons to the logic
+- Had problems commiting changes
+
 ## License
 
     Copyright [2025] [Jesse Obasi]
